@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - **Major:** Software Engineering Student 🎓
 - **Hobbies:** Tackling AI problems🤖, mastering machine learning, Book reading📖 and chilling with nature 🍃.
 - **Superpowers:**
-  - **Languages:** C++ (Gold badge on HackerRank, baby! 🏅), Java, Python 🐍
+  - **Languages:** C++ and Java (Gold badge on HackerRank, baby!), Python 🐍
   - **Frameworks & Tools:** TensorFlow, Keras
 
 ## Projects
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Learning Goals
 
-- Dive deeper into the ocean of ML and DL (CNNs) 🌊
+- Dive deeper into the ocean of ML and DL 🌊
 - Have a deep interest in coding and algorithms, along with cybersecurity 🧙‍♂️
 
 ## Get in Touch
