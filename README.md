@@ -1,9 +1,3 @@
--  Hi, I’m @usama-codes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 -  
 
 <!---
 usama-codes/usama-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My GitHub Wonderland! 🌟
 
-👋 Hey there! I'm Osama Ayaz, a software engineering student with a zest for AI, machine learning, and all things techie.
+👋 Hey there! I'm @usama-codes, a software engineering student with a zest for AI, machine learning, and all things techie.
 
 ## About Me
 
