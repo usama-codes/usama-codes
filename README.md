@@ -1,50 +1,55 @@
-
-<!---
-usama-codes/usama-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Welcome to My GitHub Wonderland! 🌟
 
-👋 Hey there! I'm @usama-codes, a software engineering student with a zest for AI, machine learning, and all things techie.
+👋 Hey there! I'm @usama-codes, a software engineering student with a passion for AI, machine learning, coding, and all things techie. I'm constantly exploring ways to solve problems efficiently and enhance my skills.
 
 ## About Me
 
-- **Name:** Osama Ayaz
-- **Major:** Software Engineering Student 🎓
-- **Hobbies:** Tackling AI problems🤖, mastering machine learning, Book reading📖 and chilling with nature 🍃.
+- **Name:** Usama Ayaz
+- **Major:** Software Engineering Student 🎓 (2nd Year)
+- **Hobbies:** Coding, building AI and machine learning projects 🤖, reading 📖, and enjoying nature 🍃.
 - **Superpowers:**
-  - **Languages:** C++ and Java (Gold badge on HackerRank, baby!), Python 🐍
-  - **Frameworks & Tools:** TensorFlow, Keras
+  - **Languages:** C++, Java, Python 🐍, JavaScript (React)
+  - **Frameworks & Tools:** TensorFlow, Keras, PyTorch, OpenCV, React
+  - **Machine Learning Expertise:** Linear Regression, Classification, Neural Networks, Deep Learning, Computer Vision, NLP
+  - **Special Interests:** AI-driven innovations, automation, DSA, algorithms.
 
 ## Projects
 
 ### 1. 🎾 University Sports and Societal Activities App
-
-- **What It Does:** Helps students reserve sports grounds, wait their turn (no more brawls! 🤺), and keep tabs on society events.
+- **What It Does:** Helps students reserve sports grounds, implement a waiting system, and stay updated on society events.
 - **Tech Used:** Java, Android
-- **Fun Fact:** Built this during my second semester. Talk about a productive procrastination session!
-  
-### 4. 🕵️‍♂️ Bloostained Alibis
+- **Fun Fact:** Built during my second semester – the perfect balance of productivity and procrastination!
 
-- **What It Does:** A murder detective game developed as a FOCP project in C++. Players unscramble words and gather clues to identify the killer. A fun twist on classic detective work!
-- **Tech Used:** C++
+### 2. 🖥️ Jarvis: My Personal Assistant
+- **What It Does:** A voice-activated assistant for managing tasks like shutting down the computer, controlling applications, sending messages, weather forecasts, and playing music.
+- **Tech Used:** Python, Speech Recognition, Flask
+- **Fun Fact:** It’s still a work in progress, but it’s already handling basic commands like a pro!
+
+### 3. 🕵️‍♂️ Cancer Detection System
+- **What It Does:** Detects cancerous tumors (benign vs. malignant) in full-body images using CNNs, developed during my internship at Murabbi.
+- **Tech Used:** Python, TensorFlow, Keras, OpenCV
+- **Fun Fact:** I managed the entire ML pipeline – from data preprocessing and augmentation to model training and evaluation.
+
+### 4. 🌍 Search Engine (Project in Progress)
+- **What It Does:** A search engine designed to handle large-scale queries using inverted indexing and efficient ranking algorithms, focusing on performance and speed.
+- **Tech Used:** C++, Python, Data Structures & Algorithms
+- **Fun Fact:** It’s optimized for querying through barrels and the use of hash functions for document ranking.
 
 ## Achievements
 
-- **Coursera Certificates:** Completed Linear Regression and Classification and Advanced Learning Algorithms courses by Andrew Ng. Yep, I’m learning from the best!
-- **HackerRank:** Earned a gold badge in C++ and Java. Shiny and proud! ✨
+- **Coursera:** Completed "Linear Regression and Classification" and "Advanced Learning Algorithms" courses by Andrew Ng. 🏅
+- **HackerRank:** Gold Badge in C++ and Java. Proud moment for me! ✨
 - **Internship:** 
-  - **Murabbi:** Working on cool machine learning projects. 🖥️
+  - **Murabbi:** Worked on machine learning projects, including cancer detection with CNNs. 📈
 
 ## Learning Goals
+- Master AI, Deep Learning, and Natural Language Processing 🧠.
+- Advance my knowledge in algorithms, data structures, and problem-solving skills.
+- Keep pushing boundaries in building cutting-edge AI systems.
 
-- Dive deeper into the ocean of ML and DL 🌊
-- Have a deep interest in coding and algorithms, along with cybersecurity 🧙‍♂️
-
-## Get in Touch
+## Let's Connect!
 
 - **Email:** usamaayaz475@gmail.com
-- **LinkedIn:** www.linkedin.com/in/osama-ayaz-2503b4299
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/osama-ayaz-2005abc)
 
-Feel free to explore my repositories, star ⭐ the ones you like, and fork 🍴 to your heart’s content. Let's connect and create something awesome together!
+Feel free to explore my repositories, star ⭐ the ones you like, and fork 🍴 them. I’m always open to collaborating on exciting projects. Let’s make something amazing together!
