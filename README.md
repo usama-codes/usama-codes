@@ -92,7 +92,8 @@ Worked independently on a cancer detection project applying transfer learning on
 custom feature engineering, and CNN-based classification on real-world ISIC medical imaging data.
 
 **Flutter Intern - Cognitive Health Intl.** *(April 2026-Present)*
-Working on Flutter development under a highly specialized team.
+Working on Flutter development under a highly skilled team.
+
 ---
 
 ## Education
