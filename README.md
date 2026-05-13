@@ -32,21 +32,17 @@ while maintaining applied ML work through real projects and Kaggle competitions.
 AI-powered telemedicine platform with real-time voice consultations using specialized medical agents,
 symptom analysis, live transcription, and automated generation of structured medical reports.  
 **Tech:** Next.js, React, TypeScript, Tailwind CSS, LangGraph, LlamaIndex, Voice AI
+**Repo:** [github.com/usama-codes/mediassist](https://github.com/usama-codes/medical-ai-voice-agent)
 
 ### Lost & Found Hub
 Full-stack platform for university communities with auth-only registration, multi-image item reporting,
 ownership verification, and a gamified contributor leaderboard.  
 **Tech:** Next.js, TypeScript, React, MongoDB, NextAuth
-
-### Medify
-Full-stack pharmacy management platform with real-time WebSocket notifications, JWT authentication,
-and comprehensive dashboard analytics for both customers and pharmacies.  
-**Tech:** React, Node.js, Express, AppWrite, Redux
+**Repo:** [github.com/usama-codes/lost-and-found-app](https://github.com/usama-codes/lost-and-found-app)
 
 ### Inquire — Search Engine
 High-performance search engine indexing 1.39M+ Medium articles using an offline Python
 indexing pipeline and a low-latency C++ query engine.  
-Built with [Muhammad Tabish](https://www.linkedin.com/in/muhammad-tabish-se/) and [Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-408591376/).
 - 521k-word lexicon with forward and inverted indexes split into 50 barrels for parallel query processing
 - Tokenization and lemmatization via NLTK; ranking via TF-IDF
 - Architecture: Flask API (ingestion) + C++ query engine (ranking) + React/TypeScript frontend  
@@ -69,11 +65,13 @@ using the ISIC 2024 skin lesion dataset.
 Voice-activated AI assistant handling WhatsApp messaging, weather forecasts, news briefings,
 system control (shutdown/restart/sleep/lock), application launching, and local music playback.  
 **Tech:** Python, Speech Recognition, Flask
+**Repo:** [github.com/usama-codes/Jarvis](https://github.com/usama-codes/Jarvis)
 
 ### Festiva — University Sports & Activities App
 Android app for managing sports ground reservations, waiting queues, and society event
 tracking across the university.  
 **Tech:** Java, Android SDK
+**Repo:"" [github.com/OmgItsAmmer/festiva](https://github.com/OmgItsAmmer/FESTIVA-Event-Managment-App)
 
 ---
 
@@ -93,6 +91,8 @@ tracking across the university.
 Worked independently on a cancer detection project applying transfer learning on ResNet50,
 custom feature engineering, and CNN-based classification on real-world ISIC medical imaging data.
 
+**Flutter Intern - Cognitive Health Intl.** *(April 2026-Present)*
+Working on Flutter development under a highly specialized team.
 ---
 
 ## Education
@@ -106,4 +106,4 @@ custom feature engineering, and CNN-based classification on real-world ISIC medi
 
 - Flutter — primary focus, production-grade mobile development
 - Kaggle competitions — applied ML practice
-- Extending Jarvis with offline Urdu NLP and faster LLM inference
+- Exploring Agentic AI
