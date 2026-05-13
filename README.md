@@ -1,74 +1,109 @@
-# Usama Ayaz
+# Osama Ayaz
 
-Software Engineering Student at NUST | AI & Machine Learning | Computer Vision | NLP
+Software Engineering Student at NUST | AI & Machine Learning | Flutter | Full-Stack Web (MERN)
 
 ---
 
 ## About
 
-Second-year Software Engineering student at NUST, focused on machine learning, deep learning, computer vision, and NLP. I build end-to-end ML systems and have hands-on internship experience delivering production-grade models.
+Second-year Software Engineering student at SEECS, NUST, Islamabad. I build across three domains:
+mobile (Flutter), full-stack web (MERN), and machine learning. Currently going deep on Flutter
+while maintaining applied ML work through real projects and Kaggle competitions.
 
-- **Location:** Rawalpindi, Pakistan
-- **Portfolio:** [osamaayaz.vercel.app](http://www.osamaayaz.vercel.app)
+- **Location:** Islamabad, Pakistan
+- **Portfolio:** [osamaayaz.vercel.app](https://osamaayaz.vercel.app)
 - **Email:** usamaayaz475@gmail.com
-- **LinkedIn:** [Usama Ayaz](https://linkedin.com/in/osama-ayaz-2005abc)
+- **LinkedIn:** [Osama Ayaz](https://linkedin.com/in/osama-ayaz-2005abc)
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, C++, Java, JavaScript  
-**ML/DL Frameworks:** TensorFlow, Keras, PyTorch  
-**CV & Data:** OpenCV, NumPy, Pandas, Scikit-learn  
-**Web & Mobile:** React, Flask, Android (Java)  
-**Tools:** Git, Jupyter, VS Code
+**ML & DL:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV  
+**Web Dev:** React, Node.js, Express, MongoDB, TypeScript, Tailwind CSS  
+**App Dev:** Flutter, Java (Android)  
+**Languages:** Python, C++, Java, JavaScript, TypeScript, Dart, SQL
 
 ---
 
 ## Projects
 
+### MediAssist
+AI-powered telemedicine platform with real-time voice consultations using specialized medical agents,
+symptom analysis, live transcription, and automated generation of structured medical reports.  
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, LangGraph, LlamaIndex, Voice AI
+
+### Lost & Found Hub
+Full-stack platform for university communities with auth-only registration, multi-image item reporting,
+ownership verification, and a gamified contributor leaderboard.  
+**Tech:** Next.js, TypeScript, React, MongoDB, NextAuth
+
+### Medify
+Full-stack pharmacy management platform with real-time WebSocket notifications, JWT authentication,
+and comprehensive dashboard analytics for both customers and pharmacies.  
+**Tech:** React, Node.js, Express, AppWrite, Redux
+
+### Inquire — Search Engine
+High-performance search engine indexing 1.39M+ Medium articles using an offline Python
+indexing pipeline and a low-latency C++ query engine.  
+Built with [Muhammad Tabish](https://www.linkedin.com/in/muhammad-tabish-se/) and [Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-408591376/).
+- 521k-word lexicon with forward and inverted indexes split into 50 barrels for parallel query processing
+- Tokenization and lemmatization via NLTK; ranking via TF-IDF
+- Architecture: Flask API (ingestion) + C++ query engine (ranking) + React/TypeScript frontend  
+
+**Tech:** C++, Python, Flask, React, TypeScript, NLTK  
+**Repo:** [github.com/usama-codes/search-engine](https://github.com/usama-codes/search-engine)
+
 ### Cancer Detection System
-CNN-based classifier for malignant vs. benign tumor detection in full-body images, built independently during internship at Murabbi.  
-- Managed the complete ML pipeline: data preprocessing, augmentation, model training, and evaluation  
-- Architecture: Convolutional Neural Network using TensorFlow/Keras  
-- Dataset: ISIC 2024 skin lesion dataset  
-- **Tech:** Python, TensorFlow, Keras, OpenCV
+CNN-based malignant vs. benign classifier built independently during internship at Murabbi
+using the ISIC 2024 skin lesion dataset.
+- Transfer learning on ResNet50 with custom color histograms, LBP texture descriptors,
+  and contour-based shape features
+- Addressed class imbalance via targeted data augmentation
+- Results: 92% test accuracy · 89% recall · F1 score of 60%
+
+**Tech:** Python, TensorFlow, Keras, OpenCV  
+**Repo:** [github.com/usama-codes/ISIC-2024-Competition](https://github.com/usama-codes/ISIC-2024-Competition)
 
 ### Jarvis — Personal Voice Assistant
-Voice-activated assistant handling system control, application management, weather queries, and music playback.  
-- Offline Urdu speech command recognition with English responses  
-- LLM-based intent extraction pipeline  
-- **Tech:** Python, Speech Recognition, Flask
+Voice-activated AI assistant handling WhatsApp messaging, weather forecasts, news briefings,
+system control (shutdown/restart/sleep/lock), application launching, and local music playback.  
+**Tech:** Python, Speech Recognition, Flask
 
-### Search Engine
-Large-scale search engine built from scratch with inverted indexing, barrel-based storage, and hash-function document ranking.  
-- Optimized for high-volume query performance  
-- **Tech:** C++, Python, Data Structures & Algorithms
-
-### University Sports & Societal Activities App (Festiva)
-Android app for managing sports ground reservations, waiting queues, and society event updates across the university.  
-- **Tech:** Java, Android SDK
+### Festiva — University Sports & Activities App
+Android app for managing sports ground reservations, waiting queues, and society event
+tracking across the university.  
+**Tech:** Java, Android SDK
 
 ---
 
 ## Certifications
 
-- Machine Learning Specialization — Andrew Ng, Coursera (Linear Regression & Classification, Advanced Learning Algorithms)
-- NLP Specialization — Coursera (2 courses completed)
+[![ML Specialization](https://img.shields.io/badge/Coursera-Machine_Learning_Specialization-0056D2?logo=coursera&logoColor=white)](https://coursera.org/share/840c00b7103ab0b2f9826ee29456c71f)
+[![NLP Probabilistic Models](https://img.shields.io/badge/Coursera-NLP_with_Probabilistic_Models-0056D2?logo=coursera&logoColor=white)](https://coursera.org/share/db61dcfcb5b66473fd64a7478d36b837)
+[![NLP Classification & Vectors](https://img.shields.io/badge/Coursera-NLP_Classification_%26_Vector_Spaces-0056D2?logo=coursera&logoColor=white)](https://coursera.org/share/af338ab443ef888344f0d626803c2242)
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/94391b047436)
+[![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving_Basic-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/3ed999c56589)
 
 ---
 
-## Achievements
+## Experience
 
-- HackerRank: Gold Badge in C++ and Java
-- Internship: Murabbi (Summer 2024) — independent ML project on cancer detection
+**ML/DL Intern — Murabbi** *(Feb 2024 – May 2024)*  
+Worked independently on a cancer detection project applying transfer learning on ResNet50,
+custom feature engineering, and CNN-based classification on real-world ISIC medical imaging data.
+
+---
+
+## Education
+
+**B.E. Software Engineering** — SEECS, NUST *(2023 – Present)*  
+**FSc Pre-Engineering** — Army Public School and College, Mardan *(2021 – 2023)*
 
 ---
 
 ## Currently Working On
 
-- Strengthening foundations in ML/DL through Kaggle competitions
+- Flutter — primary focus, production-grade mobile development
+- Kaggle competitions — applied ML practice
 - Extending Jarvis with offline Urdu NLP and faster LLM inference
-- Preparing for freelance ML and AI work
-
----
