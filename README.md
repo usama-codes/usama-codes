@@ -6,9 +6,9 @@ Software Engineering Student at NUST | AI & Machine Learning | Flutter | Full-St
 
 ## About
 
-Second-year Software Engineering student at SEECS, NUST, Islamabad. I build across three domains:
-mobile (Flutter), full-stack web (MERN), and machine learning. Currently going deep on Flutter
-while maintaining applied ML work through real projects and Kaggle competitions.
+A Software Engineering student at SEECS, NUST, Islamabad. I build across three domains:
+mobile (Flutter), full-stack web (MERN), and AI. Currently going deep on Flutter
+while maintaining AI work through real projects and Kaggle competitions.
 
 - **Location:** Islamabad, Pakistan
 - **Portfolio:** [osamaayaz.vercel.app](https://osamaayaz.vercel.app)
@@ -28,6 +28,13 @@ while maintaining applied ML work through real projects and Kaggle competitions.
 
 ## Projects
 
+### Raqam AI
+Raqam is an Urdu-first finance education/assistant app which helps with transactions and budgets, informs of recurring bills,
+goals, and has a dashboard with trend analysis, projections, and anomaly alerts. It also features a LLM interface that allows for user input via a call, Roman Urdu, Arabic-script Urdu or English along with OCR functionality for utility bills and CSV import for bank statements.
+**Tech:** TypeScript, Next.js, Convex, Clerk, OpenAI Agents SDK, Gemini
+**Repo:** [github.com/usama-codes/raqam-ai](https://github.com/usama-codes/raqam-ai)
+**Live Link**: [raqam-ai.vercel.app/](https://raqam-ai.vercel.app/)
+
 ### MediAssist
 AI-powered telemedicine platform with real-time voice consultations using specialized medical agents,
 symptom analysis, live transcription, and automated generation of structured medical reports.  
@@ -41,32 +48,26 @@ ownership verification, and a gamified contributor leaderboard.
 **Repo:** [github.com/usama-codes/lost-and-found-app](https://github.com/usama-codes/lost-and-found-app)
 
 ### Inquire — Search Engine
-High-performance search engine indexing 1.39M+ Medium articles using an offline Python
-indexing pipeline and a low-latency C++ query engine.  
+A high-performance search engine indexing 1.39M+ Medium articles using an offline Python indexing pipeline and a low-latency C++ query engine.
+It features:
 - 521k-word lexicon with forward and inverted indexes split into 50 barrels for parallel query processing
 - Tokenization and lemmatization via NLTK; ranking via TF-IDF
 - Architecture: Flask API (ingestion) + C++ query engine (ranking) + React/TypeScript frontend  
-
 **Tech:** C++, Python, Flask, React, TypeScript, NLTK  
 **Repo:** [github.com/usama-codes/search-engine](https://github.com/usama-codes/search-engine)
 
-### Cancer Detection System
-CNN-based malignant vs. benign classifier built independently during internship at Murabbi
-using the ISIC 2024 skin lesion dataset.
-- Transfer learning on ResNet50 with custom color histograms, LBP texture descriptors,
-  and contour-based shape features
+### Second Look
+CNN-based malignant vs. benign skin lesion classifier using the ISIC 2024 skin lesion dataset.
+- Transfer learning on ResNet50 with custom color histograms, LBP texture descriptors, and contour-based shape features
 - Addressed class imbalance via targeted data augmentation
-- Results: 92% test accuracy · 89% recall · F1 score of 60%
-
-**Tech:** Python, TensorFlow, Keras, OpenCV  
+- Achieved AUC score of 0.87
+- Quantized the CNN model to TFLite for fully client-side inference with zero-upload. It is privacy-preserving and deployable on mobile devices.
+- Set a recall-prioritised threshold to maximise sensitivity in a medical screening context.
+- Shipped a Next.js interface with drag-and-drop upload, per-scan confidence scores, Firebase scan history, and WCAG-accessible design.
+**Tech:** Python, TensorFlow/Keras, EfficientNetB0, TFLite, TF.js, Next.js
 **Repo:** [github.com/usama-codes/ISIC-2024-Competition](https://github.com/usama-codes/ISIC-2024-Competition)
-
-### Jarvis — Personal Voice Assistant
-Voice-activated AI assistant handling WhatsApp messaging, weather forecasts, news briefings,
-system control (shutdown/restart/sleep/lock), application launching, and local music playback.  
-**Tech:** Python, Speech Recognition, Flask
-**Repo:** [github.com/usama-codes/Jarvis](https://github.com/usama-codes/Jarvis)
-
+**Live Link:** [isic-2024.vercel.app/](https://isic-2024.vercel.app/)
+  
 ### Festiva — University Sports & Activities App
 Android app for managing sports ground reservations, waiting queues, and society event
 tracking across the university.  
@@ -91,7 +92,7 @@ tracking across the university.
 Worked independently on a cancer detection project applying transfer learning on ResNet50,
 custom feature engineering, and CNN-based classification on real-world ISIC medical imaging data.
 
-**Flutter Intern - Cognitive Health Intl.** *(April 2026-Present)*
+**Flutter Developer - Cognitive Health Intl.** *(April 2026-Present)*
 
 Working on Flutter development under a highly skilled team.
 
@@ -107,5 +108,4 @@ Working on Flutter development under a highly skilled team.
 ## Currently Working On
 
 - Flutter — primary focus, production-grade mobile development
-- Kaggle competitions — applied ML practice
 - Exploring Agentic AI
